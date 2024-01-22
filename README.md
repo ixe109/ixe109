@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything Java
 - 🌱 I’m currently learning FLutter and Spring Framework
 - 💞️ I’m looking to collaborate on any Mobile Applications with Flutter
-- 📫 How to reach me qcp1205@gamil.com  
+- 📫 How to reach me qcp1205@gmail.com  
 - ⚡ Fun fact: Stil havent gotten a chance to apply finte machines in documentation
 
 <!---
