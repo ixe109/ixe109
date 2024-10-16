@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ixe109
-- 👀 I’m interested in anything Java
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on any Mobile Applications with Flutter
-- 📫 How to reach me qcp1205@gmail.com  
-- ⚡ Fun fact: Stil havent gotten a chance to apply finte machines in documentation
+### 👋 Hi, I’m @ixe109
+
+- 💼 Focused on Java development, backend systems, and API integrations
+- 🌱 Currently enhancing skills in React, JavaScript, and modern web technologies
+- 🚀 Open to collaboration on mobile applications (Flutter) and enterprise-level software solutions
+- 📫 Reach me at qcp1205@gmail.com
+- ⚡ Fun fact: Eager to apply finite state machines to improve software documentation processes
 
 <!---
 ixe109/ixe109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
