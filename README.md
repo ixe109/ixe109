@@ -6,6 +6,8 @@
 - 📫 Reach me at qcp1205@gmail.com
 - ⚡ Fun fact: Eager to apply finite state machines to improve software documentation processes
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishe19&show_icons=true&theme=radical)
 <!---
 ixe109/ixe109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
